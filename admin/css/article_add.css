@@ -1,0 +1,12 @@
+*{
+	font-size:14px;
+	}
+/*文章管理样式*/
+.title{
+	font-size:24px;
+	border-bottom:1px solid #79EEE2;
+	padding-bottom:5px;
+	}
+.content_add{
+	margin-left:12px;
+	}

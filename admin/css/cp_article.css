@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	font-size:14px;
+	}
+table{
+	text-align:center;
+	margin-top:20px;
+	background:#FFF;
+	}
+.title{
+	border-bottom:1px solid #79EEE2;
+	font-size:24px;
+	padding-bottom:9px;
+	}
